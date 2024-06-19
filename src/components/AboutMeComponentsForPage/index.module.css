@@ -1,0 +1,8 @@
+.ul li {
+  list-style-type: none;
+  font-weight: 700;
+  line-height: 30px;
+}
+.ul li::before {
+  content: ">";
+}

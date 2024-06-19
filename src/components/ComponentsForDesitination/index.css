@@ -1,0 +1,16 @@
+.btn-group button {
+  flex: 1;
+  font-size: 1rem !important;
+  padding: 1em !important;
+  min-width: 100px;
+  max-width: 200px;
+}
+
+.btn-group {
+  text-align: center;
+  margin: 3rem auto;
+  display: flex;
+  max-width: 80vw;
+  justify-content: center;
+  flex-wrap: wrap;
+}

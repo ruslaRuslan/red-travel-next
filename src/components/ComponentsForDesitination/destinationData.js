@@ -1,0 +1,102 @@
+export const destinationData = [
+  {
+    id: 0,
+    img: "/images/rectangle372.png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "Finding Love & Home In Tbilisi, Georgia",
+    location: "Georgia",
+    commentCount: "25",
+  },
+  {
+    id: 1,
+    img: "/images/rectangle373.png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "Have you read the Beach by Alex?",
+    location: "Georgia",
+    commentCount: "25",
+  },
+  {
+    id: 2,
+    img: "/images/rectangle374.png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "The writer actually live in philippines",
+    location: "Georgia",
+    commentCount: "25",
+  },
+  {
+    id: 3,
+    img: "/images/rectangle372(1).png",
+    date: "September 16, 2018 - Tips & Tricks",
+    title: "Honestly it’s almost ridiculous how",
+    location: "Georgia",
+    commentCount: "52",
+  },
+  {
+    id: 4,
+    img: "/images/rectangle372(2).png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "The only way to see the islands",
+    location: "Georgia",
+    commentCount: "25",
+  },
+  {
+    id: 5,
+    img: "/images/rectangle372(3).png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "Get away from the maddening crowds",
+    location: "Georgia",
+    commentCount: "53",
+  },
+  {
+    id: 6,
+    img: "/images/rectangle372 (6).png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "Matsumoto castle is considered one of",
+    location: "Georgia",
+    commentCount: "53",
+  },
+  {
+    id: 7,
+    img: "/images/rectangle372(5).png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "Many buildings especially in japan",
+    location: "Georgia",
+    commentCount: "53",
+  },
+  {
+    id: 8,
+    img: "/images/rectangle372(4).png",
+    date: " September 16, 2018 - Tips & Tricks",
+    title: "There are roughly 1200 semiwild deer",
+    location: "Georgia",
+    commentCount: "53",
+  },
+];
+
+export const filterButtons = [
+  {
+    id: 0,
+    title: "South America",
+    href: "/",
+  },
+  {
+    id: 1,
+    title: "North America",
+    href: "/",
+  },
+  {
+    id: 2,
+    title: "Europe",
+    href: "/",
+  },
+  {
+    id: 3,
+    title: "Africa",
+    href: "/",
+  },
+  {
+    id: 4,
+    title: "Asia",
+    href: "/",
+  },
+];
